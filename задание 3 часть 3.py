@@ -1,5 +1,0 @@
-m=int(5)
-print(100*m)
-print(10*m)
-print(1000*m)
-print(m/1609,34)
