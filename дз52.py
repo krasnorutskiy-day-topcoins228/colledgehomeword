@@ -1,0 +1,8 @@
+top1=int(52)
+top2=float(67/2)
+top3=str(5)
+top4=bool(True)
+print(f"top1: {top1},{type(top1)}")
+print(f"top2: {top2},{type(top2)}")
+print(f"top3: {top3},{type(top3)}")
+print(f"top4: {top4},{type(top4)}")
